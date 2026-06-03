@@ -1,0 +1,19 @@
+{
+    "name": "boted-roboeyes",
+    "version": "0.0.1",
+    "description": "Port RoboEyes mchobby dla MakeCode",
+    "dependencies": {
+        "core": "*",
+        "OLED12864": "github:Tinkertanker/pxt-oled-ssd1306#v1.0.4"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.0"
+    }
+}
